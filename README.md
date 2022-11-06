@@ -10,7 +10,9 @@ To write a program to predict the marks scored by a student using the simple lin
 ## Algorithm
 1.Import the required libraries and read the dataframe.
 2.Assign hours to X and scores to Y.
-3.Implement training set and test set of the dataframe. 4.Plot the required graph both for test data and training data. 5.Find the values of MSE , MAE and RMSE. 
+3.Implement training set and test set of the dataframe.
+4.Plot the required graph both for test data and training data.
+5.Find the values of MSE , MAE and RMSE. 
 
 ## Program:
 ```
@@ -58,6 +60,8 @@ print('RMSE = ',rmse)
 ```
 
 ## Output:
+![pic1](https://user-images.githubusercontent.com/94165336/200157961-d2b0456d-c5ff-4c6d-9c4c-ab32ad140a5d.png)
+![pic2](https://user-images.githubusercontent.com/94165336/200157975-571e42e2-1cc5-4f7a-a4b1-1ee30c21ef18.png)
 ![193340375-75a3d817-aa58-4715-b7b0-91185d6b8ff1](https://user-images.githubusercontent.com/94165336/197789061-a95223c8-028d-42f6-927e-740fb46226aa.png)
 ![193340377-682adf7d-ad7f-4fed-a700-910b4b5daaae](https://user-images.githubusercontent.com/94165336/197789111-a90533a0-3c4a-4e6c-b0f3-0c6d1a977e86.png)
 ![193340380-7f61afa0-cf71-4c91-aee6-1fffddd0eb13](https://user-images.githubusercontent.com/94165336/197789217-3e9b33d2-6f07-44b8-aa74-c3b2c4897279.png)
